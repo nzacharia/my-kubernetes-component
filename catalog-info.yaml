@@ -3,6 +3,6 @@ kind: Component
 metadata:
   name: my-kubernetes-component
 spec:
-  lifecycle: production
-  owner: my-team
+  lifecycle: development
+  owner: gutsts
   type: service
